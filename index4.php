@@ -8,7 +8,7 @@
     <label for="numberOfYears">Enter a number of years here:</label><br>
     <div class="InputTime">
       <h5>Input</h5>
-      <input type="checkbox" id="iTY" name="inputTimeY">
+      <input type="checkbox" id="iTY" name="inputTimeY" checked>
         <label for="iTY">Years</label>
       <input type="checkbox" id="iTD" name="inputTimeD">
         <label for="iTD">Days</label>
